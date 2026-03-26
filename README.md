@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A detail-oriented Computer Science Engineering student (2nd Year) 💻 with a strong foundation in full-stack web development 🌐, mathematical logic 🧠, and growing expertise in AI 🤖 and cybersecurity 🔐. Skilled in building responsive web applications and managing relational databases 🗄️, with a keen interest in developing secure and scalable software systems ⚙️.
+
+Possesses a strong grasp of discrete mathematics and probability 📊, enabling effective problem-solving in algorithms and AI-driven applications. Adept at troubleshooting 🛠️, environment setup (including C/C++ toolchains), and system optimization ⚡. A fast learner 🚀 who quickly adapts to new technologies, frameworks, and security practices.
+
+Aspiring to leverage technical and analytical skills as a software engineer 👨‍💻 while contributing to innovative and impactful solutions 🌟.
