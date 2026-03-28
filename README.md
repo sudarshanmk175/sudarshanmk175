@@ -14,8 +14,55 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A detail-oriented Computer Science Engineering student (2nd Year) 💻 with a strong foundation in full-stack web development 🌐, mathematical logic 🧠, and growing expertise in AI 🤖 and cybersecurity 🔐. Skilled in building responsive web applications and managing relational databases 🗄️, with a keen interest in developing secure and scalable software systems ⚙️.
+## 👨‍💻 About Me
 
-Possesses a strong grasp of discrete mathematics and probability 📊, enabling effective problem-solving in algorithms and AI-driven applications. Adept at troubleshooting 🛠️, environment setup (including C/C++ toolchains), and system optimization ⚡. A fast learner 🚀 who quickly adapts to new technologies, frameworks, and security practices.
+- 🎓 2nd Year Computer Science Engineering Student  
+- 💡 Strong foundation in Full-Stack Web Development, Mathematical Logic & Problem Solving  
+- 🤖 Interested in AI, Backend Development & Cybersecurity  
+- 🚀 Currently exploring secure web architectures  
+- 🧠 Skilled in Discrete Mathematics & Probability for algorithms and AI logic  
+- 🛠️ Proficient in troubleshooting, environment setup (C/C++), and system optimization  
+- ⚡ Fast learner, adaptable to new technologies, frameworks, and security practices  
+- 🎯 Aspiring Software Engineer focused on building scalable and impactful solutions  
+---
 
-Aspiring to leverage technical and analytical skills as a software engineer 👨‍💻 while contributing to innovative and impactful solutions 🌟.
+## 🛠️ Tech Stack
+
+### 🚀 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sudarshanmk175&theme=tokyonight)
+
+---
+
+## 📌 Currently Focused On
+
+- 🔐 Web Security & Secure Architecture  
+- 🤖 AI-based Applications  
+- ⚡ Backend Performance Optimization  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sudarshan-mk-124460321/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&to=sudarshanmk175@gmail.com)
