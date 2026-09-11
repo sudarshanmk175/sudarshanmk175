@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 👨‍💻 About Me
 
-- 🎓 3rd Year Computer Science Engineering Student  
+- 🎓 Pre Final Year Computer Science Engineering Student  
 - 💡 Strong foundation in Full-Stack Web Development, Mathematical Logic & Problem Solving  
 - 🤖 Interested in AI, Backend Development & Cybersecurity  
 - 🚀 Currently exploring secure web architectures  
